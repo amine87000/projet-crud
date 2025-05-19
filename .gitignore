@@ -1,0 +1,18 @@
+# Dossiers Docker
+.env
+*.log
+
+# PHP
+/vendor/
+*.sql
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Autres
+node_modules/
